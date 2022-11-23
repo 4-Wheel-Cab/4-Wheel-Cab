@@ -43,15 +43,11 @@ error_reporting(0);
                 <p class="names2">B.Tech CSE</p>
                 <p class="names3">201500811</p>
                 </div>
-                <div class="circle"><img src = "assets/images/yash.jpg"/>
+                
+		<div class="circle"><img src = "assets/images/yash.jpg"/>
                 <p class="names1">Yash Gangwar</p>
                 <p class="names2">B.Tech CSE</p>
                 <p class="names3">201500812</p>
-                </div>
-                <div class="circle"><img src = "assets/images/raj1.jpg"/>
-                <p class="names1">Raj Singh</p>
-                <p class="names2">B.Tech CSE</p>
-                <p class="names3">201500551</p>
                 </div>
                 <div class="circle"><img src = "assets/images/pramod.jpg"/>
                 <p class="names1">Pramod Kumar Dagur</p>
@@ -62,6 +58,11 @@ error_reporting(0);
                 <p class="names1">Kumkum Singh</p>
                 <p class="names2">B.Tech CSE</p>
                 <p class="names3">201500360</p>
+                </div>
+		<div class="circle"><img src = "assets/images/raj1.jpg"/>
+                <p class="names1">Raj Singh</p>
+                <p class="names2">B.Tech CSE</p>
+                <p class="names3">201500551</p>
                 </div>
             </div>
     <?php include("includes/footer.php");?>
