@@ -42,7 +42,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<title>Car Rental Port | Vehicle Details</title>
+<title>4 Wheel Cab</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <!--Custome Style -->
@@ -361,7 +361,7 @@ $_SESSION['brndid']=$result->bid;
     
     <!--Similar-Cars-->
     <div class="similar_cars">
-      <h3>Similar Cars</h3>
+      <h3>SIMILER CARS</h3>
       <div class="row">
 <?php 
 $bid=$_SESSION['brndid'];
